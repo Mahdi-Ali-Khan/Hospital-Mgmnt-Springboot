@@ -207,7 +207,7 @@ To explore the system's capabilities, use these pre-configured accounts:
 Java Developer | Spring Boot | Clean Code Enthusiast
 
 📧 Email: mdmahdi024@gmail.com
-🐙 GitHub: github.com/Mahdi-Ali-Khan
+🐙 GitHub: https://github.com/Mahdi-Ali-Khan
 
 ---
 
